@@ -1,0 +1,18 @@
+{
+  "name": "openai",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "fs": "^0.0.1-security",
+    "openai": "^4.24.1",
+    "pdfreader": "^3.0.2"
+  }
+}
