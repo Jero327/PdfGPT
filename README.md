@@ -2,7 +2,7 @@
 
 ### Make sure node is installed
 
-### Download this repo by ```git clone git@github.com:Jero327/PdfGPT.git```
+### Download this repo by ```git clone https://github.com/Jero327/PdfGPT.git```
 
 ### cd into repo
 
