@@ -8,7 +8,7 @@
 
 ### Run ```npm i```
 
-### Create ```.env``` file
+### Create ```.env``` file from root path
 
 ### Paste your OpenAI API Key into ```.env``` as following:
 ```OPENAIAPIKEY = "your_openai_api_key"```
